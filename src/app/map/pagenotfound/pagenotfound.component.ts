@@ -3,11 +3,12 @@ import { Component } from '@angular/core';
 @Component({
   template: `
     <div class="page-not-found">
-      <h1 class="text-center" >Página não encontrada...</h1>
+      <img src="../../../assets/image/pagenotfound.gif">
     </div>
     <style>
-      h1 {
-        margin-left: 2%;
+      img {
+        padding-top: 4%;
+        padding-left: 25%;
       }
     </style>
   `,

@@ -1,0 +1,7 @@
+.fullscreen-control img,
+#mapType-control img,
+#styledMapDayMode-control img {
+  margin: 22%;
+  width: 30.1px;
+  height: 29px;
+}
